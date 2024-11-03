@@ -60,6 +60,6 @@ To set up and run the project locally, follow these steps:
    cd powertrainer-demo
    npm install
 
-2. **Clone the Repository and Install Dependencies**:
+2. **Run the app**:
    ```bash
    npm run dev
