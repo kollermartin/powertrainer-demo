@@ -1,0 +1,22 @@
+.settings {
+    cursor: pointer;
+}
+
+.divider {
+    margin: 0;
+}
+
+.content {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    gap: 0.4rem;
+}
+
+.content button {
+    text-align: left;
+}
+
+.content button.switch {
+    text-align: center;
+}

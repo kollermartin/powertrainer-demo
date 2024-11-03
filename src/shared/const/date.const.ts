@@ -1,0 +1,3 @@
+const REQUEST_DATE_FORMAT = "YYYY-MM-DD";
+
+export default REQUEST_DATE_FORMAT;

@@ -1,0 +1,13 @@
+.layout {
+    min-height: 50vh;
+    margin: 0 0.5rem;
+    padding: 0.5rem 0;
+}
+
+.layoutContent {
+    padding: 0 0.5rem;
+}
+
+.title {
+    text-align: center;
+}

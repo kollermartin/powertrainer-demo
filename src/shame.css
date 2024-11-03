@@ -1,0 +1,8 @@
+/**
+** @Description: Purpose of this file is to globally override any ant design styles
+ */
+
+/*Turns off vertical divider in vertical inline menu on right side*/
+:where(.css-dev-only-do-not-override-dkbvqv).ant-menu-light.ant-menu-root.ant-menu-inline {
+    border: none;
+}

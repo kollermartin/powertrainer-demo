@@ -1,0 +1,15 @@
+.socials {
+    display: flex;
+    justify-content: center;
+}
+
+.socials .icon {
+    font-size: 1.3rem;
+}
+
+.socials button {
+    color: inherit !important;
+}
+
+.copyright {
+}

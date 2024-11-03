@@ -1,0 +1,13 @@
+.filterDropdown {
+    padding: 8px;
+    width: 200px;
+}
+
+.searchInput {
+    width: 100%;
+    display: block;
+}
+
+.divider {
+    margin: 8px 0;
+}

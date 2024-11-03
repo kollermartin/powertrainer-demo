@@ -1,0 +1,61 @@
+@import "shame.css";
+
+html,
+body,
+#root {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+        "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+/*
+  * Color variables from color palette https://ant.design/docs/spec/colors
+ */
+:root {
+    --background-color-light: #fff; /* Light theme background */
+    --background-color-dark: #141414; /* Dark theme background */
+    --background-color: var(--background-color-light); /* Default theme background color */
+
+    /* Polar Green */
+    --color-green-1: #f6ffed;
+    --color-green-2: #d9f7be;
+    --color-green-3: #b7eb8f;
+    --color-green-4: #95de64;
+    --color-green-5: #73d13d;
+    --color-green-6: #52c41a;
+    --color-green-7: #389e0d;
+    --color-green-8: #237804;
+    --color-green-9: #135200;
+    --color-green-10: #092b00;
+    /* Dust Red */
+    --color-red-1: #fff1f0;
+    --color-red-2: #ffccc7;
+    --color-red-3: #ffa39e;
+    --color-red-4: #ff7875;
+    --color-red-5: #ff4d4f;
+    --color-red-6: #f5222d;
+    --color-red-7: #cf1322;
+    --color-red-8: #a8071a;
+    --color-red-9: #820014;
+    --color-red-10: #5c0011;
+    /* Geek Blue */
+    --color-geek-1: #f0f5ff;
+    --color-geek-2: #d6e4ff;
+    --color-geek-3: #adc6ff;
+    --color-geek-4: #85a5ff;
+    --color-geek-5: #597ef7;
+    --color-geek-6: #2f54eb;
+    --color-geek-7: #1d39c4;
+    --color-geek-8: #10239e;
+    --color-geek-9: #061178;
+    --color-geek-10: #030852;
+}

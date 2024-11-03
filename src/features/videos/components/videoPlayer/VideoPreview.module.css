@@ -1,0 +1,40 @@
+.imageContainer {
+    position: relative;
+    max-width: 75%; /* Adjust this value to control the maximum size */
+    margin: auto; /* This centers the container */
+    display: flex; /* Flexbox for centering content */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
+
+.image {
+    display: block;
+    width: 100%; /* Image will scale to the container's width */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.playButton {
+    cursor: pointer;
+    padding: 0.5rem 2rem;
+    opacity: 1;
+    font-size: 3rem;
+    background-color: rgba(0, 0, 0, 0.4);
+    border: white solid 0.1rem;
+    border-radius: 1rem;
+    color: white;
+}
+
+.playButton:hover {
+    background-color: rgba(81, 152, 224, 0.5); /* Darken the overlay when hovered */
+}

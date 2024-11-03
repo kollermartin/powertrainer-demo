@@ -1,0 +1,11 @@
+.trainingCompleted {
+    color: var(--color-green-6);
+}
+
+.trainingNotCompleted {
+    color: var(--color-red-6);
+}
+
+.training {
+    font-size: 1.5rem;
+}

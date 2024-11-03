@@ -1,0 +1,12 @@
+.marginAll {
+    margin: 1rem;
+}
+
+.marginLeftRight {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.alignCenter {
+    text-align: center;
+}

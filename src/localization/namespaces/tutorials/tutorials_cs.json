@@ -1,0 +1,19 @@
+{
+    "section": "Tutoriály",
+    "description": "Popis tutoriálu",
+    "search": "Název tutoriálu",
+    "changeView": "Změnit zobrazení",
+    "newTutorial": "Nový tutoriál",
+    "tutorial.status1": "Nahrává se",
+    "tutorial.status2": "Nahráno",
+    "tutorial.status3": "Selhalo",
+    "title": "Název",
+    "actions": "Akce",
+    "editTutorial": "Upravit tutoriál",
+    "tutorialUploaded": "Tutoriál byl úspěšně nahrán",
+    "tutorialCreated": "Tutoriál byl úspěšně vytvořen",
+    "tutorialCreationFailed": "Vytvoření tutoriálu selhalo",
+    "tutorialUploadFailed": "Nahrání tutoriálu selhalo",
+    "tutorialUpload": "Nahrávání tutoriálu",
+    "tutorialsFetchFailed": "Načtení tutoriálů selhalo"
+}

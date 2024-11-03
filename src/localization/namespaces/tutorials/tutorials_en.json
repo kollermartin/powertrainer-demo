@@ -1,0 +1,20 @@
+{
+    "section": "Tutorials",
+    "description": "Description of the tutorial",
+    "search": "Tutorial name",
+    "changeView": "Change view",
+    "newTutorial": "New tutorial",
+    "tutorial.status1": "Uploading",
+    "tutorial.status2": "Uploaded",
+    "tutorial.status3": "Failed",
+    "title": "Title",
+    "actions": "Actions",
+    "editTutorial": "Edit tutorial",
+    "cancel": "Cancel",
+    "tutorialUploaded": "Tutorial was successfully uploaded",
+    "tutorialCreated": "Tutorial was successfully created",
+    "tutorialCreationFailed": "Tutorial creation failed",
+    "tutorialUploadFailed": "Tutorial upload failed",
+    "tutorialUpload": "Uploading tutorial",
+    "tutorialsFetchFailed": "Tutorials fetch failed"
+}

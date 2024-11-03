@@ -1,0 +1,3 @@
+/dist/**
+.eslintr.cjs
+jest.config.ts

@@ -1,0 +1,20 @@
+# Node modules and logs
+node_modules
+*.log
+
+# Build artifacts
+dist
+
+# System files
+.DS_*
+*.backup.*
+*.back.*
+
+# IDE specific files
+.idea
+
+# Other
+*.min.js
+
+.github
+.eslintrc.cjs

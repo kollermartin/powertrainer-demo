@@ -1,0 +1,15 @@
+export const MAX_TRAININGS = 10;
+
+export const MAX_EXERCISES = 20;
+
+export const MIN_EXERCISES_NUMBER_VALUE = 0;
+
+export const MAX_EXERCISES_NUMBER_VALUE = 100;
+
+export const MAX_TEXT_AREA_LENGTH = 500;
+
+export const SCHEDULED_DATE_DISPLAY_FORMAT = "DD/MM/YYYY";
+
+export const MAX_EXERCISE_VIDEOS = 10;
+
+export const MAX_EXERCISE_VIDEO_NAME_LENGTH = 90;

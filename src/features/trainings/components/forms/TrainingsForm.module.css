@@ -1,0 +1,46 @@
+.trainingsContainer {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+}
+
+.datePicker {
+    width: 100%;
+}
+
+.closeIcon {
+    font-size: 1.25rem;
+    margin-top: 2px;
+}
+
+.trainingActions {
+    display: flex;
+    gap: 0.5rem;
+    align-items: flex-start;
+}
+
+.exerciseActions {
+    display: flex;
+    gap: 0.5rem;
+    align-items: flex-start;
+    justify-content: center;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+.trainingActions > *,
+.exerciseActions > * {
+    font-size: 1.25rem;
+}
+
+.formActions {
+    margin-top: 2rem;
+    gap: 0.5rem;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+}
+
+.addExercise {
+    margin-top: 1rem;
+}
