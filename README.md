@@ -23,6 +23,12 @@ This demo includes a limited set of features that represent core functionality o
 > **Note:** This demo showcases only a portion of the key features of PowerTrainer. The full app is significantly more
 > advanced, with a broader range of capabilities and deeper integrations for managing training programs at scale.
 
+### Limitations
+
+Since this is a demo, not all features are fully implemented. Some functionalities such as paging, sorting, and
+filtering are not operational in this version. These features were omitted to streamline the demo and focus on core
+interactions without investing time in additional functionality that is available in the full application.
+
 In the real app, API calls facilitate data persistence using `@tanstack/react-query` for data fetching and state
 management. However, in this demo, all data is mocked. Instead of making real API calls, the app returns mock promises
 with placeholder data, and local state is managed entirely through `@tanstack/react-query`. Any changes made to the data
@@ -40,7 +46,8 @@ This project is built with the following technologies:
 - **Axios** – For handling HTTP requests (used in real app, mocked in demo).
 - **React Router** – Enables navigation within the app.
 - **React-Player** – Embeds YouTube videos for exercise tutorials.
-- **UUID** – Generates unique identifiers for entities such as tutorials and exercises.
+- **UUID** – Generates unique identifiers for entities such as tutorials and exercises. Only used in the demo for
+  generating mock data ids.
 - **Day.js** – Lightweight library for date formatting and manipulation.
 
 ## Local Setup
